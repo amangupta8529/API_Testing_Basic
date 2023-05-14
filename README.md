@@ -25,3 +25,6 @@ A reusable component that renders a bar chart using the Recharts library.
 - Create a new file ./Histogram.jsx in ./src and copy it.
 - Check all the dependecies and install it.
 - Add styling on your page from ./App.css..
+
+### Hosting this solution on Netlify
+https://incomparable-flan-083eaa.netlify.app/
