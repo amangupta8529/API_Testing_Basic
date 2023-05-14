@@ -18,7 +18,7 @@ A reusable component that renders a bar chart using the Recharts library.
 - Recharts: Used for creating the histogram chart.
 - FileSaver.js: Used for exporting the histogram data as a CSV file.
 
-Follow the steps below to set up the project locally:
+### Follow the steps below to set up the project locally:
 1.create new file >> npx create-react-app word-freq
 2.Copy the code from App.jsx.
 3.Create a new file ./Histogram.jsx in ./src and copy it.
